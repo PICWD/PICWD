@@ -11,7 +11,7 @@ File structure：
 
 |Filename|Content|
 |:---|:---|
-|Annotations|列2的内容1|
+|Annotations|37297 xml files (Each xml file saves bndbox_id, bndbox_coordi, score, id of all fins in each img) |
 |ImageSets\Main|列2的内容2|
 |JPEGImages|列2的内容2|
 |JPEGImages|列2的内容2|
