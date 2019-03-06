@@ -16,5 +16,5 @@ File structure：
 |JPEGImages|37297 jpg files |
 |Segmentation|30786 png files (Each png file saves semantic segmentation information corresponding with cropped images in bndbox)|
 |QZ_img_info.xls|It holds the same information as xml files in 'Annotations', but in one xls file.|
-|QZ_segmentation_intact.xls|It descrisbes whether each segmentation area is intact corresponding with 'Segmentation'.|
+|QZ_segmentation_intact.xls|It descrisbes whether each segmentation area is intact corresponding with png files in 'Segmentation'.|
 
