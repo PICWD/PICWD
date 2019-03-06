@@ -2,7 +2,7 @@
 
 ![IMG](https://github.com/PICWD/PICWD/blob/master/123.jpg)
 
-download link：
+Download link：
 ---------------
 
 File structure：
