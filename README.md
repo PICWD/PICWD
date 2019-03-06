@@ -9,7 +9,7 @@ File structure：
 ---------------
 >QinZhou
 >>Annotations
-
+  XML file
 >>ImageSets
 
 >>JPEGImages
