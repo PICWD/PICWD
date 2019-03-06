@@ -2,10 +2,10 @@
 
 ![IMG](https://github.com/PICWD/PICWD/blob/master/123.jpg)
 
-Download link：
+Download link
 ---------------
 
-File structure：
+File structure
 ---------------
 ### QinZhou
 
@@ -29,3 +29,6 @@ File structure：
 |ST_img_info.xls| |
 |ST_segmentation_intact.xls| |
 
+Usage License
+---------------
+All images and their associated annotations in PICWD can be used for academic purposes only, but any commercial use is prohibited.
