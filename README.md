@@ -9,7 +9,9 @@ File structure：
 ---------------
 >QinZhou
 >>Annotations
+
 >>ImageSets
+
 >>JPEGImages
 >>Segmentation
 >>QZ_img_info.xls
