@@ -7,13 +7,14 @@ download link：
 
 File structure：
 ---------------
->QinZhou
->>Annotations
-  XML file
->>ImageSets
+### QinZhou
 
->>JPEGImages
->>Segmentation
->>QZ_img_info.xls
->>QZ_segmentation_intact.xls
+|Filename|Content|
+|:---|:---|
+|Annotations|列2的内容1|
+|ImageSets\Main|列2的内容2|
+|JPEGImages|列2的内容2|
+|JPEGImages|列2的内容2|
+|QZ_img_info.xls|列2的内容2|
+|QZ_segmentation_intact.xls|列2的内容2|
 
