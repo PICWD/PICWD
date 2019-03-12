@@ -34,5 +34,5 @@ File structure
 
 Usage License
 ---------------
-All images and their associated annotations in PICWD **can be used for academic purposes only, but any commercial use is prohibited.**
- In all the related publications, please cite the paper “PICWD: A Large-Scale Dataset for Automated Photo Identification of Chinese White Dolphins“
+** 1. All images and their associated annotations in PICWD **can be used for academic purposes only, but any commercial use is prohibited.**
+** 2. In all the related publications, please cite the paper “PICWD: A Large-Scale Dataset for Automated Photo Identification of Chinese White Dolphins“
