@@ -1,6 +1,6 @@
 # PICWD: A Large-Scale Dataset for Automated Photo Identification of Chinese White Dolphins
 
-![IMG](https://github.com/PICWD/PICWD/blob/master/123.jpg)
+![IMG](https://github.com/PICWD/PICWD/blob/master/framework.jpg)
 
 Download link
 ---------------
