@@ -35,3 +35,4 @@ File structure
 Usage License
 ---------------
 All images and their associated annotations in PICWD **can be used for academic purposes only, but any commercial use is prohibited.**
+In all the related publications, please cite the paper “MS-Celeb-1M: A Dataset and Benchmark for Large Scale Face Recognition“
